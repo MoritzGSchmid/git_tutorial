@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="Gti4Programmers.cpp" />
     <ClCompile Include="morty.cpp" />
+    <ClCompile Include="summer.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
