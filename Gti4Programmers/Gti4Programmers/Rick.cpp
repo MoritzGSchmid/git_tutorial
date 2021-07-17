@@ -19,3 +19,8 @@ int sub(int left, int right)
 {
     return left - right;
 }
+
+int mul(int left, int right)
+{
+    return left * right;
+}
