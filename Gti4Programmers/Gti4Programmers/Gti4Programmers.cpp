@@ -12,6 +12,11 @@ int main()
     std::cout << "Change fro Visual Studio" << std::endl;
 }
 
+void rick()
+{
+    std::cout << "This Rick was added by the command line" << std::endl;
+}
+
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
 // Debug program: F5 or Debug > Start Debugging menu
 

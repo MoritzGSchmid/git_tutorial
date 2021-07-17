@@ -18,6 +18,9 @@
     <ClCompile Include="Gti4Programmers.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Rick.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="morty.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>

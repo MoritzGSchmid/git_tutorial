@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Gti4Programmers.cpp" />
+    <ClCompile Include="Rick.cpp" />
     <ClCompile Include="morty.cpp" />
     <ClCompile Include="summer.cpp" />
   </ItemGroup>
