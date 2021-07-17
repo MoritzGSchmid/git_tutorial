@@ -9,3 +9,8 @@ int add(int left, int right)
 {
 	return left + right;
 }
+
+int div(int left, int right)
+{
+	return left / right;
+}
