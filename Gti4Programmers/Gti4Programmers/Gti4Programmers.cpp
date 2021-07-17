@@ -9,6 +9,7 @@ int main()
     auto something{ 7 };
     std::cout << "Some change for git: " << something << std::endl;
     std::cout << "Command line change for git" << std::endl;
+    std::cout << "Change fro Visual Studio" << std::endl;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
